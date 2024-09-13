@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite1" verbose="1">
+  <test name="Home PageTests">
+    <classes>
+       <class name="fbeats_q2.test_cases.homePage_Tests"/>
+    </classes>
+  </test>
+
+  <test name="Archive PageTests">
+    <classes>
+       <class name="fbeats_q2.test_cases.archivePage_Tests"/>
+    </classes>
+  </test>
+</suite>

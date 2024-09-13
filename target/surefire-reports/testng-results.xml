@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="21" passed="21" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-13T13:26:28 BDT" name="Suite1" finished-at="2024-09-13T13:37:13 BDT" duration-ms="644276">
+    <groups>
+    </groups>
+    <test started-at="2024-09-13T13:26:28 BDT" name="Home PageTests" finished-at="2024-09-13T13:36:37 BDT" duration-ms="608390">
+      <class name="fbeats_q2.test_cases.homePage_Tests">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:26:28 BDT" name="setUP" finished-at="2024-09-13T13:26:39 BDT" duration-ms="10419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test_1()[pri:1, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:26:39 BDT" name="Test_1" finished-at="2024-09-13T13:26:54 BDT" duration-ms="15213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_1 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:26:54 BDT" name="closeDown" finished-at="2024-09-13T13:26:55 BDT" duration-ms="538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:26:55 BDT" name="setUP" finished-at="2024-09-13T13:27:14 BDT" duration-ms="18788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test_2()[pri:2, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:27:14 BDT" name="Test_2" finished-at="2024-09-13T13:27:33 BDT" duration-ms="19930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_2 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:27:34 BDT" name="closeDown" finished-at="2024-09-13T13:27:35 BDT" duration-ms="1072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:27:35 BDT" name="setUP" finished-at="2024-09-13T13:27:45 BDT" duration-ms="10401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test_3()[pri:3, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:27:45 BDT" name="Test_3" finished-at="2024-09-13T13:27:53 BDT" duration-ms="8046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_3 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:27:53 BDT" name="closeDown" finished-at="2024-09-13T13:27:53 BDT" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:27:53 BDT" name="setUP" finished-at="2024-09-13T13:28:01 BDT" duration-ms="7251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test_4()[pri:4, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:28:01 BDT" name="Test_4" finished-at="2024-09-13T13:28:09 BDT" duration-ms="8043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_4 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:28:09 BDT" name="closeDown" finished-at="2024-09-13T13:28:09 BDT" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:28:09 BDT" name="setUP" finished-at="2024-09-13T13:28:18 BDT" duration-ms="9409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test_5()[pri:5, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:28:18 BDT" name="Test_5" finished-at="2024-09-13T13:28:29 BDT" duration-ms="11141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_5 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:28:29 BDT" name="closeDown" finished-at="2024-09-13T13:28:30 BDT" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:28:30 BDT" name="setUP" finished-at="2024-09-13T13:28:38 BDT" duration-ms="8458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test_6()[pri:6, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:28:38 BDT" name="Test_6" finished-at="2024-09-13T13:28:52 BDT" duration-ms="14172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_6 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:28:52 BDT" name="closeDown" finished-at="2024-09-13T13:28:52 BDT" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:28:52 BDT" name="setUP" finished-at="2024-09-13T13:29:02 BDT" duration-ms="9206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test_7()[pri:7, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:29:02 BDT" name="Test_7" finished-at="2024-09-13T13:29:25 BDT" duration-ms="23328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_7 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:29:25 BDT" name="closeDown" finished-at="2024-09-13T13:29:25 BDT" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:29:25 BDT" name="setUP" finished-at="2024-09-13T13:29:35 BDT" duration-ms="9625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test_8()[pri:8, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:29:35 BDT" name="Test_8" finished-at="2024-09-13T13:29:57 BDT" duration-ms="22274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_8 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:29:57 BDT" name="closeDown" finished-at="2024-09-13T13:29:57 BDT" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:29:57 BDT" name="setUP" finished-at="2024-09-13T13:30:05 BDT" duration-ms="7318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test9()[pri:9, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:30:05 BDT" name="Test9" finished-at="2024-09-13T13:30:39 BDT" duration-ms="34347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test9 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:30:39 BDT" name="closeDown" finished-at="2024-09-13T13:30:39 BDT" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:30:39 BDT" name="setUP" finished-at="2024-09-13T13:30:49 BDT" duration-ms="9844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test10()[pri:10, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:30:49 BDT" name="Test10" finished-at="2024-09-13T13:31:15 BDT" duration-ms="25228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test10 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:31:15 BDT" name="closeDown" finished-at="2024-09-13T13:31:15 BDT" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:31:15 BDT" name="setUP" finished-at="2024-09-13T13:31:22 BDT" duration-ms="7678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test11()[pri:11, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:31:22 BDT" name="Test11" finished-at="2024-09-13T13:31:37 BDT" duration-ms="14227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test11 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:31:37 BDT" name="closeDown" finished-at="2024-09-13T13:31:37 BDT" duration-ms="336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:31:37 BDT" name="setUP" finished-at="2024-09-13T13:31:46 BDT" duration-ms="9415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test12()[pri:12, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:31:46 BDT" name="Test12" finished-at="2024-09-13T13:32:01 BDT" duration-ms="14199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test12 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:32:01 BDT" name="closeDown" finished-at="2024-09-13T13:32:01 BDT" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:32:01 BDT" name="setUP" finished-at="2024-09-13T13:32:08 BDT" duration-ms="7175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test13()[pri:13, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:32:08 BDT" name="Test13" finished-at="2024-09-13T13:32:25 BDT" duration-ms="17260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test13 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:32:25 BDT" name="closeDown" finished-at="2024-09-13T13:32:26 BDT" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:32:26 BDT" name="setUP" finished-at="2024-09-13T13:32:35 BDT" duration-ms="9226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test14()[pri:14, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:32:35 BDT" name="Test14" finished-at="2024-09-13T13:33:18 BDT" duration-ms="42998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test14 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:33:18 BDT" name="closeDown" finished-at="2024-09-13T13:33:18 BDT" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:33:18 BDT" name="setUP" finished-at="2024-09-13T13:33:28 BDT" duration-ms="9900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test15()[pri:15, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:33:28 BDT" name="Test15" finished-at="2024-09-13T13:34:00 BDT" duration-ms="32415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test15 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:34:00 BDT" name="closeDown" finished-at="2024-09-13T13:34:01 BDT" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:34:01 BDT" name="setUP" finished-at="2024-09-13T13:34:10 BDT" duration-ms="8954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test16()[pri:16, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:34:10 BDT" name="Test16" finished-at="2024-09-13T13:34:45 BDT" duration-ms="35373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test16 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:34:45 BDT" name="closeDown" finished-at="2024-09-13T13:34:45 BDT" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:34:45 BDT" name="setUP" finished-at="2024-09-13T13:34:53 BDT" duration-ms="7249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test17()[pri:17, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:34:53 BDT" name="Test17" finished-at="2024-09-13T13:35:25 BDT" duration-ms="32545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test17 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:35:25 BDT" name="closeDown" finished-at="2024-09-13T13:35:25 BDT" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:35:25 BDT" name="setUP" finished-at="2024-09-13T13:35:34 BDT" duration-ms="8159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test18()[pri:18, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:35:34 BDT" name="Test18" finished-at="2024-09-13T13:35:55 BDT" duration-ms="21569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test18 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:35:55 BDT" name="closeDown" finished-at="2024-09-13T13:35:55 BDT" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:35:55 BDT" name="setUP" finished-at="2024-09-13T13:36:04 BDT" duration-ms="8515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test19()[pri:19, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:36:04 BDT" name="Test19" finished-at="2024-09-13T13:36:37 BDT" duration-ms="32643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test19 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.homePage_Tests@3a7442c7]" started-at="2024-09-13T13:36:37 BDT" name="closeDown" finished-at="2024-09-13T13:36:37 BDT" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+      </class> <!-- fbeats_q2.test_cases.homePage_Tests -->
+    </test> <!-- Home PageTests -->
+    <test started-at="2024-09-13T13:36:37 BDT" name="Archive PageTests" finished-at="2024-09-13T13:37:13 BDT" duration-ms="35821">
+      <class name="fbeats_q2.test_cases.archivePage_Tests">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:fbeats_q2.test_cases.archivePage_Tests@4007f65e]" started-at="2024-09-13T13:36:37 BDT" name="setUP" finished-at="2024-09-13T13:36:39 BDT" duration-ms="2042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="Test_20()[pri:20, instance:fbeats_q2.test_cases.archivePage_Tests@4007f65e]" started-at="2024-09-13T13:36:39 BDT" name="Test_20" finished-at="2024-09-13T13:37:03 BDT" duration-ms="23791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_20 -->
+        <test-method signature="Test_21()[pri:21, instance:fbeats_q2.test_cases.archivePage_Tests@4007f65e]" started-at="2024-09-13T13:37:03 BDT" name="Test_21" finished-at="2024-09-13T13:37:12 BDT" duration-ms="9679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_21 -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:fbeats_q2.test_cases.archivePage_Tests@4007f65e]" started-at="2024-09-13T13:37:12 BDT" name="closeDown" finished-at="2024-09-13T13:37:13 BDT" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+      </class> <!-- fbeats_q2.test_cases.archivePage_Tests -->
+    </test> <!-- Archive PageTests -->
+  </suite> <!-- Suite1 -->
+</testng-results>
